@@ -1,0 +1,15 @@
+var utils = require ('utils');
+
+exports.name = function(){
+  var d = new Drone(utils.getPlayerPos(self));
+  d.box(blocks.stone, 3, 3, 3);
+  d.fwd(1);
+  d.right(1);
+};
+
+for(var i=0; i < 4; i++){
+  d.box(blocks.stone,8-(i*2),1,8;
+  d.right(1);
+  //d.fwd(1);
+  d.up(1);
+}
