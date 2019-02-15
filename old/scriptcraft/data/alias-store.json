@@ -1,0 +1,11 @@
+{
+  "players": {
+    "Aremer": {
+      "cw": [
+        "time set day",
+        "weather clear"
+      ]
+    }
+  },
+  "global": {}
+}
