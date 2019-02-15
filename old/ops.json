@@ -1,0 +1,32 @@
+[
+  {
+    "uuid": "266cf557-6780-3fd1-aff9-dd81cb320ad7",
+    "name": "Aremer",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "d97f2b05-4950-3932-880e-63124aca320f",
+    "name": "Minecraft_2006",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "23e04209-868b-414e-9852-5b7ca4f9e654",
+    "name": "Aremer",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "7b26b166-2024-3cef-b53f-2da5c1068f35",
+    "name": "@p",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "57e44472-5470-342f-9614-4a1a6461f0ed",
+    "name": "srccb",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
