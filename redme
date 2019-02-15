@@ -1,0 +1,7 @@
+Der old Ordner enhält alles was bisher geschrieben wurde.
+
+Start.bat wird für Windows benötigt, Java aufrufe für andere OS sind nicht enthalten.
+
+Alle Spieler erhalten automatisch einen Unterordner in scriptcraft/playes/ in welchem Sie ihre Scripts speichern können.
+
+Um die Welt zurück zu setzen, einfach den Flattop Ordner löschen und den Server neu starten.
